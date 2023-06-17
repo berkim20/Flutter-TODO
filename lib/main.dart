@@ -163,6 +163,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         });
                       },
                     ),
+                    //f
                     title: Text(itemList[index],
                         style: TextStyle(
                             decoration: (checkedItems[index] == true)
